@@ -14,3 +14,6 @@ for num in ans:
     print(num, end=' ')
 
 # find 메소드를 이용해서 해당 문자가 문자열에 존재하는지 확인
+# a = ord('a')
+# for i in range(26):
+#   print(str.find(chr(a+i)), end=' ')
